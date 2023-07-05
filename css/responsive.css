@@ -19,7 +19,7 @@
     nav .navbar-nav li {
         
         border-bottom:2px solid #FF7628;
-        width:301px;
+        width:auto;
     margin-right:0px;
         box-sizing: border-box;
         
@@ -27,7 +27,8 @@
     }
     
         nav .navbar-nav li:last-child {
-        border-bottom:none;
+        border-bottom:0px;
+        margin-right: 0;
     }
      .box1 img {
         vertical-align: middle;
@@ -59,8 +60,11 @@
     }
     .custom_btn_get {
         display: block;
-        padding: 14px 0px;
-        margin-top: 250px;
+        /* padding: 14px 181px; */
+        margin-top: 271px;
+        text-align: center;
+         margin-right:-195px;
+         margin-left: -13px;
     }
     nav ul li a{
         text-align: center;
@@ -87,18 +91,13 @@
         width: 292px;
       margin-left:-20px;
     }
-    .custom_btn_get {
-        display: block;
-        padding: 24px 0px;
-        margin-top: 250px;
-    }
     
         .custom_btn_get a {
             background-color: #FF7628;
             color: white;
-            border-radius: 51px;
-            padding: 20px 57px;
-            display: ruby-text;
+            border-radius: 100px;
+            padding: 16px 31px;
+        
         }  
         .banner{
             background-image: url(../images/banner.png);
