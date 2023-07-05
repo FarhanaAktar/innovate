@@ -61,7 +61,7 @@
     .custom_btn_get {
         display: block;
         /* padding: 14px 181px; */
-        margin-top: 271px;
+        margin-top: 290px;
         text-align: center;
          margin-right:-195px;
          margin-left: -13px;
@@ -205,19 +205,19 @@
 
 }
 .squre2 img{
-    width:105%;
+    width:287PX;
     margin-top: 10px;
 }
 
 .squre3{
 
     margin-top: 579px;
-    margin-left: -304px;
+    margin-left: -318px;
 
 
 }
 .squre3 img{
-width:105%;
+width:287PX;
 margin-top: -10px;
 }
  .squre4{
@@ -281,9 +281,10 @@ width:98%;
     font-size: 21px;
 
 }
-.p_content p {
-	width: 249px;
-    font-size: 14px;
+
+.p_content h2 {
+	text-align: center;
+    margin-left: 84px;
 }
 .process_content2 h3 {
 	width: 311px;
@@ -292,7 +293,7 @@ width:98%;
     font-size: 21px;
 
 }
-.p_content2 p {
+.p_content p {
 	width: 249px;
     font-size: 14px;
 }
@@ -350,6 +351,10 @@ width:98%;
 	margin-left: 120px;
 	padding-top: 35px;
 	width: 122px;
+}
+.review_content2 h6 {
+	margin-left: 125px;
+	margin-top: -26px;
 }
 .blog_logo{
     margin-top: -77px;
@@ -444,6 +449,9 @@ margin-top:-284px ;
 }
 .copy_right {
 	 margin-left: auto; 
+}
+.custom__review_css {
+	padding-top: 22px;
 }
 @media (min-width:576px) and (max-width:767px){
 }
