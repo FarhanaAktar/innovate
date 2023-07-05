@@ -58,14 +58,10 @@
         text-align: center;
         padding: 14px 181px;
     }
-    .custom_btn_get {
-        display: block;
-        /* padding: 14px 181px; */
-        margin-top: 290px;
-        text-align: center;
-         margin-right:-195px;
-         margin-left: -13px;
+    .custom-btn a {
+        padding: 15px 30px;
     }
+   
     nav ul li a{
         text-align: center;
         /* margin-left: 80px; */
@@ -91,7 +87,14 @@
         width: 292px;
       margin-left:-20px;
     }
-    
+    .custom_btn_get {
+        display: block;
+        /* padding: 14px 181px; */
+        margin-top: 290px;
+        text-align: center;
+         margin-right:-195px;
+         margin-left: -13px;
+    }
         .custom_btn_get a {
             background-color: #FF7628;
             color: white;
@@ -283,8 +286,9 @@ width:98%;
 }
 
 .p_content h2 {
-	text-align: center;
+	/* text-align: center; */
     margin-left: 84px;
+    width:88px;
 }
 .process_content2 h3 {
 	width: 311px;
